@@ -1,8 +1,8 @@
 # Bubble Sort Article 
 
-What do I need to know and what do I need to memorize about bubble sort to be a serious software engineer 
+Question: What do I need to know and what do I need to memorize about bubble sort to be a software engineer? 
 
-To be a serious software engineer, it’s important to understand **Bubble Sort** in terms of its mechanics, strengths, and weaknesses, as well as how it fits into the broader context of sorting algorithms. Here’s what you need to know and what you might need to memorize:
+Response: To be a software engineer, it’s important to understand **Bubble Sort** in terms of its mechanics, strengths, and weaknesses, as well as how it fits into the broader context of sorting algorithms. Here’s what you need to know and what you might need to memorize:
 
 ### **1. How Bubble Sort Works (Understanding the Algorithm)**
 - **Mechanism**: Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted.
