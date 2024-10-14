@@ -13,6 +13,4 @@
 
 4. **Utilize AI (Without Code Completion Tools)**: You are encouraged to use AI tools such as **ChatGPT** or **HuggingFace** to assist your learning. These tools are great for clarifying concepts, but refrain from using code completion tools like **CodeWhisperer** or **GitHub Copilot** during this exercise. The goal is to read, understand, and rephrase the material in your own words to enhance comprehension.
 
-5. **The README_\* Files**: The README_* files contain valuable information on foundational computer science knowledge that career-driven software engineers should know and have memorized. Keep this in mind when studying the material to prepare for technical interviews. 
-
-6. **Using the Answer Keys**: The answer keys are available in the "TOP_SECRET_KEYS" folder. Please refrain from consulting them until you have completed the activity or are truly stuck and have exhausted other resources. Use the keys only as a last resort to review your work or clarify challenging concepts.
+5. **Using the Answer Keys**: The answer keys are available in the "TOP_SECRET_KEYS" folder. Please refrain from consulting them until you have completed the activity or are truly stuck and have exhausted other resources. Use the keys only as a last resort to review your work or clarify challenging concepts.
