@@ -1,6 +1,6 @@
-chart comparing everything I need to know and understand about the 10 algorithms every software engineer should know 
+Chart comparing everything I need to know and understand about the 10 algorithms every software engineer should know 
 
-Here’s a **chart comparing the key things** you need to know and understand about the **10 algorithms every software engineer should know**. This includes important aspects like **time complexity, space complexity, typical use cases, and whether they need to be memorized or just understood** and relevant LeetCode problems:
+Here’s a **chart comparing the key things** you need to know and understand about the **10 algorithms every software engineer should know as part of "computer science knowledge"**. This includes important aspects like **time complexity, space complexity, typical use cases, and whether they need to be memorized or just understood** and relevant LeetCode problems:
 
 | Algorithm                | Best Time Complexity¹ | Worst Time Complexity¹ | Space Complexity¹ | Use Cases²                                | Memorize¹ or Understand² | LeetCode Problem (International)                    | LeetCode Problem (Chinese)                           |
 |--------------------------|-----------------------|------------------------|-------------------|-------------------------------------------|--------------------------|-----------------------------------------------------|-----------------------------------------------------|
